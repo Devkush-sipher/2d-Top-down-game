@@ -38,6 +38,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: background
+    uniqueID: 39062053
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: game object
+    uniqueID: 188094583
     locked: 0
